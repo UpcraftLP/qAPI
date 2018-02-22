@@ -1,2 +1,5 @@
-# qAPI
-multi-purpose Minecraft questing API
+# qAPI - A Minecraft Questing API
+---
+## MC 1.12.2
+
+
